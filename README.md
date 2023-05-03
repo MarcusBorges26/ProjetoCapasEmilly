@@ -8,4 +8,5 @@ Footer:
 ![Captura de tela de 2023-04-27 23-26-59](https://user-images.githubusercontent.com/103702779/235039686-d7354c98-4eae-43e9-817a-ad2c25d27fd7.png)
 
 Adicionar produto ao carrinho:
-![Captura de tela de 2023-04-29 11-52-24](https://user-images.githubusercontent.com/103702779/235309085-d6b66ca2-04db-4357-9478-cca6cba43873.png)
+
+![Captura de tela de 2023-05-03 12-35-16](https://user-images.githubusercontent.com/103702779/235965660-dc85b822-e3ce-4b0c-8939-83bc2eabbd41.png)
